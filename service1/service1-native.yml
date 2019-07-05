@@ -1,1 +1,4 @@
 name: service1-native
+nginx:
+  server:
+    name: nativeName

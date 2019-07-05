@@ -1,2 +1,5 @@
 name: service1-dev
 encrypt: '{cipher}29aaba961ca02cc64ad2908c29b6536578685adb1c583c5d8f0815197d22969b'
+nginx:
+  server:
+    name: devName
